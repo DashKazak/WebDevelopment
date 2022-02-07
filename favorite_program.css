@@ -1,0 +1,26 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    font-weight: normal;
+}
+.jumbotron{
+    font-family: fantasy;
+    font-weight: lighter;
+    color:blueviolet;
+    text-align: center;
+}
+.github{
+    border:solid 4px aquamarine;
+    padding:2px;
+    background-color: azure;
+    text-align: center;
+
+}
+#github_header{
+    color:blueviolet;
+   
+}
+
+#github_body{
+    font-style: italics;
+}

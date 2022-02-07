@@ -1,0 +1,19 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    background-image:linear-gradient(#ff4761,#ffcb3a, #511d47, #343b3c, #1e2425) ;
+    font-weight: bold;
+    color: white;
+    font-size: large;
+    
+}
+input,textarea,select{
+    background: transparent;
+    border: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+
+input[type="checkbox"]{
+    margin-left:10px;
+    size: 40px;
+}
