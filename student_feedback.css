@@ -1,0 +1,15 @@
+.jumbotron{
+   background-color: #DEB887;
+   text-align: center;
+   font-family: 'Karla', sans-serif;
+   padding:10px;
+   color: #808000;
+   border-radius: 10px;
+}
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #808000;
+    background-color: white;
+    font-weight: bold;
+    
+}
